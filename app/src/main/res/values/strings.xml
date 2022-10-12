@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MAP524Assignment2</string>
+    <string name="product_type">Product Type</string>
+    <string name="product_qty">Quantity</string>
+    <string name="product_total">Total</string>
+    <string name="enterHint">Enter New Quantity</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="quantityDetailLabel">\"Quantity: \"</string>
+    <string name="totalDetailLabel">\"Total: \"</string>
+    <string name="manager">Manager</string>
+    <string name="buy">Buy</string>
+    <string name="history">HISTORY</string>
+    <string name="restock">RESTOCK</string>
+</resources>
